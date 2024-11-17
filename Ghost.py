@@ -285,4 +285,4 @@ if __name__ == '__main__':
     else:
         print("\033[92mNo VM detected. Continue with normal execution.\033[0m")
         
-    print("\033[92mPCipolleED! | Ghost-Antidebug (Made By Hisako) <3 \033[0m")
+    print("\033[92mPassed! | Ghost-Antidebug (Made By Hisako) <3 \033[0m")
